@@ -4,6 +4,8 @@ Welcome to the Python GUI Login/Registration System with SQL! 🎉 Seamlessly ma
 # 🖥️ Technologies Used
 - Python 🐍
 - SQL/MySQL 🗄️
+- PyCharm CE ✨
+- MySQL Workbench 🏋🏼
 
 # 🚀 Features
 - Sleek and user-friendly GUI interface for effortless user management.
