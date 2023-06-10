@@ -22,6 +22,9 @@ https://github.com/han-dann/SQL-python-gui-login-registration-system/assets/9867
 
 <img width="995" alt="Screenshot 2023-06-10 at 9 31 27 AM" src="https://github.com/han-dann/SQL-python-gui-login-registration-system/assets/98670479/b6d8429f-7ad2-49a5-81bb-10a004386274">
 
+# 👾 Demo-Full Registration Info Saved in MySQL database
+<img width="622" alt="Screenshot 2023-06-10 at 9 32 06 AM" src="https://github.com/han-dann/SQL-python-gui-login-registration-system/assets/98670479/51a76635-ae48-4ef8-9c84-ad9b6f15b536">
+
 # 🌟 Usage
 - Clone the repository to your local machine. 🖥️
 - Set up the SQL/MySQL database by following the provided instructions.
